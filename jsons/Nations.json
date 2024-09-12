@@ -3,9 +3,8 @@
 	{
 		"name": "Spectator",
 		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
+		"innerColor": [255,255,255]
 	},
-
 	{
 		"name": "Rohan",
 		"leaderName": "Theoden",
@@ -40,7 +39,7 @@
 		"adjective": ["Gondorian"],
 				"style": "motw",
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -68,7 +67,7 @@
 		"adjective": ["Isengard"],
 				"style": "Orc",
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -124,7 +123,7 @@
 		"adjective": ["Angmar"],
 		"startBias": ["Tundra"],
 				"style": "Orc",
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -209,7 +208,7 @@
 		"leaderName": "Elendil",
 				"style": "motw",
 		"adjective": ["Arnorian"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -237,7 +236,7 @@
 		"adjective": ["Easterling"],
 				"style": "Mote",
 		"startBias": ["Plains","Desert"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
@@ -292,7 +291,7 @@
 		"leaderName": "Elrond",
 		"adjective": ["Noldor"],
 				"style": "Elven",
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
